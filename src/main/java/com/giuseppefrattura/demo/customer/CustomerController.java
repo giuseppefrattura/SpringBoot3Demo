@@ -1,4 +1,4 @@
-package com.giuseppefrattura.demo;
+package com.giuseppefrattura.demo.customer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

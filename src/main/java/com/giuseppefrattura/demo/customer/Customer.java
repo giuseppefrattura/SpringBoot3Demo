@@ -1,4 +1,4 @@
-package com.giuseppefrattura.demo;
+package com.giuseppefrattura.demo.customer;
 
 import jakarta.persistence.*;
 
